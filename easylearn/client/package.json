@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "test": "vitest"
   },
-  "vitest": {
+  "vitest":{
     "environment": "jsdom"
   },
   "dependencies": {
