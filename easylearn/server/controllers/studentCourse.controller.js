@@ -78,7 +78,7 @@ export const addStudentCourse = async (req, res) => {
     });
   }
 };
-
+//andrea
 export const getAllStudentsCourses = async (req, res) => {
   try {
     const studentCourses = await StudentCourse.find({});
